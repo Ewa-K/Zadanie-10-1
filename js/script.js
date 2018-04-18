@@ -1,4 +1,4 @@
-$(function(){
+$(document).ready(function() {
     console.log('DOM loaded - you can have fun');
 
     var span = $('span');
